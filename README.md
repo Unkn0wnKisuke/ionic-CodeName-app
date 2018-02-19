@@ -3,7 +3,7 @@ iOS and Andriod mobile app using the latest angular and ionic
 
 ## Getting Started
 
-If using ubuntu run the [install_ionic_ubuntu_15_10.sh](https://github.com/leighton876/varios_linux/blob/master/install_ionic_ubuntu_15_10.sh) from my linux_various repo.
+If using ubuntu run the [install_ionic_ubuntu_15_10.sh](https://github.com/leighton876/varios_linux/blob/master/install_ionic_ubuntu_15_10.sh) from my [linux_various]((https://github.com/leighton876/various_linux/) repository 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
